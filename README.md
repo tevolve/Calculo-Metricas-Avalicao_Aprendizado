@@ -37,7 +37,7 @@
   <h3>Execução</h3>
   <ol>
     <li>Clone o repositório:
-      <pre><code>git clone https://github.com/seu-usuario/nome-do-repositorio.git</code></pre>
+      <pre><code>git clone https://github.com/tevolve/nome-do-repositorio.git</code></pre>
     </li>
     <li>Navegue para o diretório do projeto:
       <pre><code>cd nome-do-repositorio</code></pre>
