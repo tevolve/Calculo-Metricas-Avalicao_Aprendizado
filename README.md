@@ -1,44 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Projeto de cálculo de métricas de avaliação de aprendizado em Python, incluindo Acurácia, Precisão, Sensibilidade, Especificidade, F1-Score e Curva ROC.">
-  <meta name="author" content="Seu Nome">
-  <title>README - Métricas de Avaliação</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 10px;
-      border-radius: 6px;
-      overflow: auto;
-    }
-    .emoji {
-      font-size: 1.2em;
-    }
-    a {
-      color: #007BFF;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
   <h1>📊 Cálculo de Métricas de Avaliação de Aprendizado</h1>
   <p>Este repositório contém um projeto desenvolvido em <strong>Python</strong> que implementa as principais métricas para avaliação de modelos de classificação. O objetivo é calcular:</p>
   <ul>
@@ -106,8 +65,8 @@ F1-Score: 0.77</code></pre>
   <h2>📜 Licença</h2>
   <p>Este projeto está licenciado sob a <a href="LICENSE">MIT License</a>.</p>
   <ul>
-    <li><strong>Nickname:</strong>Tevolve</li>
-    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/tev0lv3" target="_blank">LinkedIn</a></li>
+    <li><strong>Nickname:</strong> Tevolve</li>
+    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/tev0lv3" target="_blank"> LinkedIn</a></li>
   </ul>
 </body>
 </html>
