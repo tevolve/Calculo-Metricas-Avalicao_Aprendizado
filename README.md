@@ -57,7 +57,6 @@ F1-Score: 0.77</code></pre>
 
   <h3>Curva ROC</h3>
   <p>O gráfico da <strong>Curva ROC</strong> será gerado, indicando o desempenho do modelo.</p>
-  <img src="path/to/your/image.png" alt="Gráfico da Curva ROC" style="max-width:100%; height:auto; border: 1px solid #ccc; border-radius: 4px;">
 
   <h2>🤝 Contribuições</h2>
   <p>Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e novas ideias.</p>
