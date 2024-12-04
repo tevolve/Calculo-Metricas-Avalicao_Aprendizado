@@ -45,7 +45,7 @@
 </code></pre>
     </li>
     <li>Execute o script:
-      <pre><code>python projeto_metricas.py</code></pre>
+      <pre><code>python calculo.py</code></pre>
     </li>
   </ol>
 
